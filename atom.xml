@@ -6,7 +6,7 @@
   <link href="https://webshell.me/atom.xml" rel="self"/>
   
   <link href="https://webshell.me/"/>
-  <updated>2022-10-11T03:37:21.646Z</updated>
+  <updated>2022-10-12T08:44:59.110Z</updated>
   <id>https://webshell.me/</id>
   
   <author>
@@ -17,23 +17,19 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>test</title>
-    <link href="https://webshell.me/2022/10/11/test/"/>
-    <id>https://webshell.me/2022/10/11/test/</id>
-    <published>2022-10-11T03:31:48.000Z</published>
-    <updated>2022-10-11T03:37:21.646Z</updated>
+    <title>新博客开业</title>
+    <link href="https://webshell.me/2022/10/12/hello/"/>
+    <id>https://webshell.me/2022/10/12/hello/</id>
+    <published>2022-10-12T08:18:09.000Z</published>
+    <updated>2022-10-12T08:44:59.110Z</updated>
     
-    <content type="html"><![CDATA[<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">alert(&#x27;Hello World!&#x27;);</span><br></pre></td></tr></table></figure><figure class="highlight php"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">&lt;?php</span></span><br><span class="line"><span class="keyword">echo</span> <span class="string">&quot;6666&quot;</span>;</span><br><span class="line"></span><br><span class="line"><span class="meta">?&gt;</span></span><br></pre></td></tr></table></figure>]]></content>
-    
-    
-    <summary type="html">这篇文章是testtest.</summary>
+    <content type="html"><![CDATA[<p><strong>Hello，这是我新的博客，老得因为vps太贵没续费，嘎掉了。</strong></p><p><strong>平常也不怎么更新，太菜了摆烂了。😭</strong></p><img src="/images/hello/tpjzy.png" style="zoom:50%;" />]]></content>
     
     
+    <summary type="html">Hello,这是我的新博客.</summary>
     
-    <category term="code-test" scheme="https://webshell.me/categories/code-test/"/>
     
     
-    <category term="test" scheme="https://webshell.me/tags/test/"/>
     
   </entry>
   

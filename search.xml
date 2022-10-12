@@ -4,25 +4,13 @@
   
     
     <entry>
-      <title>test</title>
-      <link href="/2022/10/11/test/"/>
-      <url>/2022/10/11/test/</url>
+      <title>新博客开业</title>
+      <link href="/2022/10/12/hello/"/>
+      <url>/2022/10/12/hello/</url>
       
-        <content type="html"><![CDATA[<figure class="highlight plaintext"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">alert(&#x27;Hello World!&#x27;);</span><br></pre></td></tr></table></figure><figure class="highlight php"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">&lt;?php</span></span><br><span class="line"><span class="keyword">echo</span> <span class="string">&quot;6666&quot;</span>;</span><br><span class="line"></span><br><span class="line"><span class="meta">?&gt;</span></span><br></pre></td></tr></table></figure>]]></content>
-      
-      
-      <categories>
-          
-          <category> code-test </category>
-          
-      </categories>
+        <content type="html"><![CDATA[<p><strong>Hello，这是我新的博客，老得因为vps太贵没续费，嘎掉了。</strong></p><p><strong>平常也不怎么更新，太菜了摆烂了。😭</strong></p><img src="/images/hello/tpjzy.png" style="zoom:50%;" />]]></content>
       
       
-        <tags>
-            
-            <tag> test </tag>
-            
-        </tags>
       
     </entry>
     
